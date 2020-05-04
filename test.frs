@@ -1,0 +1,7 @@
+la variable test vaut 5
+
+si test vaut 5
+    dire 'coucou'
+
+fonction test avec les arguments: a, bg, p
+    retourner a mutliplié par bg moins p
